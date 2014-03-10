@@ -1,4 +1,4 @@
-verdiepingsworkshop WordPress - SVSIM
+Verdiepings workshop WordPress - SVSIM
 ====================================
 
 # Slides
