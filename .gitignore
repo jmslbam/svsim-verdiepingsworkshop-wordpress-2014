@@ -1,0 +1,8 @@
+www/media
+wp-config-env.php
+
+www/wp-content/plugins/acf-flexible-content
+www/wp-content/plugins/acf-options-page
+www/wp-content/plugins/acf-repeater
+www/wp-content/plugins/gravityforms
+# wp-content/plugins/
